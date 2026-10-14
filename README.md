@@ -86,7 +86,7 @@ The dashboard consists of five pages, each focusing on a different business area
 
 Provides a high-level summary of supply chain performance through key KPIs and overview visualizations.
 
-![Overview Dashboard](<screenshots/Overview.png>)
+![Overview Dashboard](<screenshots/Overview.PNG>)
 
 
 ### 2. 🏆 Product Performance
