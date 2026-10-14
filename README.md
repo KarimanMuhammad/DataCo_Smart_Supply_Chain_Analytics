@@ -93,25 +93,25 @@ Provides a high-level summary of supply chain performance through key KPIs and o
 
 Analyzes product and category performance to identify major sales contributors and investigate profitability differences.
 
-![Product Performance Dashboard](<screenshots/Product Performance.png>)
+![Product Performance Dashboard](<screenshots/Product Performance.PNG>)
 
 ### 3. 👥 Customer & Market Analysis
 
 Explores customer activity and compares business performance across markets to identify differences in sales and profitability.
 
-![Customer and Market Analysis](<screenshots/Customer & Market Analysis.png>)
+![Customer and Market Analysis](<screenshots/Customer & Market Analysis.PNG>)
 
 ### 4. 🚚 Shipping & Delivery Performance
 
 Examines shipping modes, delivery indicators, and shipping duration to identify delivery risks and operational improvement opportunities.
 
-![Shipping and Delivery Performance](<screenshots/Shipping & Delivery Performance.png>)
+![Shipping and Delivery Performance](<screenshots/Shipping & Delivery Performance.PNG>)
 
 ### 5. 💡 Business Insights & Recommendations
 
 Presents key findings and business recommendations to connect analytical results with potential actions for improving business performance.
 
-![Business Insights and Recommendations](<screenshots/Business Insights & Recommendations.png>)
+![Business Insights and Recommendations](<screenshots/Business Insights & Recommendations.PNG>)
 
 
 ## 🗂️ Repository Structure
