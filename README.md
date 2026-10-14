@@ -86,33 +86,32 @@ The dashboard consists of five pages, each focusing on a different business area
 
 Provides a high-level summary of supply chain performance through key KPIs and overview visualizations.
 
-![Overview Dashboard](screenshots/Overview.png)
+![Overview Dashboard](<screenshots/Overview.png>)
 
 
 ### 2. 🏆 Product Performance
 
 Analyzes product and category performance to identify major sales contributors and investigate profitability differences.
 
-![Product Performance Dashboard](screenshots/04-product-performance.png)
-ysis.png)
+![Product Performance Dashboard](<screenshots/Product Performance.png>)
 
 ### 3. 👥 Customer & Market Analysis
 
 Explores customer activity and compares business performance across markets to identify differences in sales and profitability.
 
-![Customer and Market Analysis](screenshots/02-customer-market-anal
+![Customer and Market Analysis](<screenshots/Customer & Market Analysis.png>)
 
 ### 4. 🚚 Shipping & Delivery Performance
 
 Examines shipping modes, delivery indicators, and shipping duration to identify delivery risks and operational improvement opportunities.
 
-![Shipping and Delivery Performance](screenshots/Shipping & Delivery Performance.png)
+![Shipping and Delivery Performance](<screenshots/Shipping & Delivery Performance.png>)
 
 ### 5. 💡 Business Insights & Recommendations
 
 Presents key findings and business recommendations to connect analytical results with potential actions for improving business performance.
 
-![Business Insights and Recommendations](screenshots/Business Insights & Recommendations.png)
+![Business Insights and Recommendations](<screenshots/Business Insights & Recommendations.png>)
 
 
 ## 🗂️ Repository Structure
